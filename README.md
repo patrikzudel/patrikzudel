@@ -1,9 +1,7 @@
 
 
 <p align="center"><img src='/LogoDark.png?sanitize=true#gh-light-mode-only' style="display: block;margin-left: auto;margin-right: auto;"></p>
-[![Twitter Follow](https://img.shields.io/twitter/follow/patrikzero?label=Follow)](https://twitter.com/intent/follow?screen_name=patrikzero)
-![GitHub followers](https://img.shields.io/github/followers/patrikzudel?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=patrikzudel.patrikzudel)
+[![Twitter Follow](https://img.shields.io/twitter/follow/patrikzero?label=Follow)](https://twitter.com/intent/follow?screen_name=patrikzero)![GitHub followers](https://img.shields.io/github/followers/patrikzudel?label=Follow&style=social)![](https://visitor-badge.glitch.me/badge?page_id=patrikzudel.patrikzudel)
 
 ## 🍜 About me
 
