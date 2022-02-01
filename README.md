@@ -1,6 +1,5 @@
 <p align="center"><img src='/LogoDark.png?sanitize=true#gh-light-mode-only' style="display: block;margin-left: auto;margin-right: auto;"></p>
 
-
 ## 🍜 About me
 
 Hey I am Patrik Žúdel, also known as Zero. 
@@ -19,4 +18,4 @@ I am a professional esports player and a computer science student in my third ye
 
 ---
 
-💻❤🍲 by Patrik Žúdel						 [![Twitter Follow](https://img.shields.io/twitter/follow/patrikzero?label=Follow)](https://twitter.com/intent/follow?screen_name=patrikzero)![GitHub followers](https://img.shields.io/github/followers/patrikzudel?label=Follow&style=social)![](https://visitor-badge.glitch.me/badge?page_id=patrikzudel.patrikzudel)
+<img src="https://img.shields.io/twitter/follow/patrikzero?style=flat-square&color=555555&labelColor=black&logo=twitter&label=@PatrikZero"><img src="https://img.shields.io/github/followers/patrikzudel?style=flat-square&color=555555&labelColor=black&logo=github&label=patrikzudel"> <img src="https://visitor-badge.glitch.me/badge?page_id=patrikzudel.patrikzudel&left_color=black&right_color=black" align="right">
