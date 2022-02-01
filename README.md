@@ -15,7 +15,7 @@ I am a professional esports player and a computer science student in my third ye
 ## 🥇 Achievements
 
 - Student of the Year 2020 Award - [Slovak University of Technology](https://www.stuba.sk/sk/diani-na-stu/prehlad-aktualit/rektor-stu-miroslav-fikar-udelil-ocenenia-student-roka-2020.html?page_id=13848)
-- Ranked #1 Student by grades at Applied Informatics Year 2019/2020 @ [STU FEI](https://www.fei.stuba.sk/)
+- Ranked #1 Student by grades at Computer Science Year 2019/2020 @ [STU FEI](https://www.fei.stuba.sk/)
 
 ---
 
