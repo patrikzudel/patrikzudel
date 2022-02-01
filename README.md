@@ -1,4 +1,6 @@
-<img src='/LogoDark.png?sanitize=true#gh-light-mode-only' alt="Logo" style="display: block;margin-left: auto;margin-right: auto;">
+
+
+<p align="center"><img src='/LogoDark.png?sanitize=true#gh-light-mode-only' style="display: block;margin-left: auto;margin-right: auto;"></p>
 
 ## 🍜 About me
 
