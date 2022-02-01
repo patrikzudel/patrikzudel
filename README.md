@@ -18,4 +18,4 @@ I am a professional esports player and a computer science student in my third ye
 
 ---
 
-<img src="https://img.shields.io/twitter/follow/patrikzero?style=flat-square&color=555555&labelColor=black&logo=twitter&label=@PatrikZero"><img src="https://img.shields.io/github/followers/patrikzudel?style=flat-square&color=555555&labelColor=black&logo=github&label=patrikzudel"> <img src="https://visitor-badge.glitch.me/badge?page_id=patrikzudel.patrikzudel&left_color=black&right_color=black" align="right">
+<a href="https://twitter.com/PatrikZero"><img src="https://img.shields.io/twitter/follow/patrikzero?style=flat-square&color=555555&labelColor=black&logo=twitter&label=@PatrikZero"></a><img src="https://img.shields.io/github/followers/patrikzudel?style=flat-square&color=555555&labelColor=black&logo=github&label=patrikzudel"> <img src="https://visitor-badge.glitch.me/badge?page_id=patrikzudel.patrikzudel&left_color=black&right_color=black" align="right">
