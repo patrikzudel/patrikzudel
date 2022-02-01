@@ -1,5 +1,5 @@
 <p align="center"><img src='/LogoDark.svg?sanitize=true#gh-light-mode-only' style="display: block;margin-left: auto;margin-right: auto;width="50%"></p>
----
+
 ## 🍜 About me
 
 Hey I am Patrik Žúdel, also known as Zero. 
