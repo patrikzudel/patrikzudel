@@ -1,5 +1,5 @@
 <p align="center"><img src='/LogoDark.png?sanitize=true#gh-light-mode-only'></p>
-
+<p align="center"><img src='/LogoLight.png?sanitize=true#gh-dark-mode-only'></p>
 
 ## 🍜 About me
 
