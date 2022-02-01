@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/patrikzudel/patrikzudel/main/LogoDark.png?sanitize=true#gh-light-mode-only" alt="Logo" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
+<img src='/LogoDark.png?sanitize=true#gh-light-mode-only' alt="Logo" style="display: block;margin-left: auto;margin-right: auto;width: 100%;">
 
 ## 🍜 About me
 
