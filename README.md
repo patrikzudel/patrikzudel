@@ -1,4 +1,4 @@
-<p align="center"><img src='/LogoDark.svg?sanitize=true#gh-light-mode-only' style="display: block;margin-left: auto;margin-right: auto;width="50%"></p>
+<p align="center"><img src='/LogoDark.svg?sanitize=true#gh-light-mode-only' width="50%" style="display: block;margin-left: auto;margin-right: auto;></p>
 
 ## 🍜 About me
 
