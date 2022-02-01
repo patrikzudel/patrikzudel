@@ -1,4 +1,4 @@
-<img src='/LogoDark.png?sanitize=true#gh-light-mode-only' alt="Logo" style="display: block;margin-left: auto;margin-right: auto;width: 100%;">
+<img src='/LogoDark.png?sanitize=true#gh-light-mode-only' alt="Logo" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
 
 ## 🍜 About me
 
