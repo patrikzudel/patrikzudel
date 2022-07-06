@@ -10,7 +10,6 @@ I am a professional esports player and a computer science student in my third ye
 ## 👨‍🎓 Education
 
 - Bachelors in Computer Science @ [STU FEI](https://www.fei.stuba.sk/) 
-  - [In progress - 5/6 semesters ✅] 
 
 ## 🥇 Achievements
 
