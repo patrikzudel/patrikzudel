@@ -5,7 +5,7 @@
 
 Hey I am Patrik Žúdel, also known as Zero. 
 
-I am a professional esports player and a computer science student in my third year. I really love ramen.
+I am a professional esports player. I am a very curious person in a broad range of topics and I just enjoy learning a lot. Also a ramen enjoyer.
 
 ## 👨‍🎓 Education
 
